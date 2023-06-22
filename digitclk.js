@@ -87,11 +87,11 @@ function digiclk()
         break;
 
         case 4:day="Thursday"
-        document.body.style.backgroundImage="url()"
+        document.body.style.backgroundImage="linear-gradient(75deg,black,blue)"
         break;
 
         case 5:day="Friday"
-        document.body.style.backgroundImage="linear-gradient(red,blue)"
+        document.body.style.backgroundImage="linear-gradient(75deg,green,blue)"
         break;
 
         case 6:day="Saturday"
